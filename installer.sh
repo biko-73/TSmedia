@@ -7,7 +7,7 @@
 # =====================================================================================================================
 
 PACKAGE_DIR='TSmedia/main'
-MY_IPK="enigma2-plugin-extensions-tsmedia_15.01_all.ipk"
+MY_IPK="enigma2-plugin-extensions-tsmedia_17.2_all.ipk"
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
 if which opkg > /dev/null 2>&1; then
